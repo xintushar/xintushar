@@ -1,16 +1,21 @@
-## Hi there 👋
+### Hi there 👋, I am Tushar Adnan 
+#### I am a student 
+![I am a student ](https://scontent.fdac24-4.fna.fbcdn.net/v/t39.30808-6/558891859_1510189646933778_8373200911856117532_n.png?stp=dst-png_s960x960&_nc_cat=107&ccb=1-7&_nc_sid=cc71e4&_nc_eui2=AeF8u3lGK1ykA2y9eK7wuLRrud2ILg4k01u53YguDiTTW0dYI5GH7GGU0TqeUO1-QORmy3Lt17_pKtd3IEx_5_9m&_nc_ohc=gcKxk1WbWgUQ7kNvwGuHXM1&_nc_oc=Admfw6-VeZ2gbg_ICEVBb55KJzSv7jwRyWeNze8Dmd8W_84Mf3feVQfB9GHazsi0f60&_nc_zt=23&_nc_ht=scontent.fdac24-4.fna&_nc_gid=VALF-uUTHL7wYPgRRgOH3A&oh=00_AffPn2yQyc3ssqSND652QEJjkVbyY3Xqvbf95BB4aoYJcA&oe=68ED81EF)
 
-<!--
-**xintushar/xintushar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🧍‍♂️I am Tushar Adnan ,currently working  as a web developer .🔵I am very keen to learn new technologies and use them to either create something useful or improve the existing website.✅
 
-Here are some ideas to get you started:
+Skills:  HTML / CSS/JS
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on Web Development  
+- 🌱 I’m currently learning HTML / CSS/JS 
+- 👯 I’m looking to collaborate on Github  
+
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/xintushar)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/tusharadnanahmed.tusar)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/tushar_adnan_71/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg' alt='YouTube' height='40'>](https://www.youtube.com/channel/https://youtube.com/@adnantusar71)  
+
+<a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> 
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=xintushar)](https://github.com/ryo-ma/github-profile-trophy)
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=xintushar&show_icons=true)  
+
