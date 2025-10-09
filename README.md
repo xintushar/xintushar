@@ -1,6 +1,4 @@
-![I am a student ](https://scontent.fdac24-4.fna.fbcdn.net/v/t39.30808-6/558891859_1510189646933778_8373200911856117532_n.png?stp=dst-png_s960x960&_nc_cat=107&ccb=1-7&_nc_sid=cc71e4&_nc_eui2=AeF8u3lGK1ykA2y9eK7wuLRrud2ILg4k01u53YguDiTTW0dYI5GH7GGU0TqeUO1-QORmy3Lt17_pKtd3IEx_5_9m&_nc_ohc=gcKxk1WbWgUQ7kNvwGuHXM1&_nc_oc=Admfw6-VeZ2gbg_ICEVBb55KJzSv7jwRyWeNze8Dmd8W_84Mf3feVQfB9GHazsi0f60&_nc_zt=23&_nc_ht=scontent.fdac24-4.fna&_nc_gid=VALF-uUTHL7wYPgRRgOH3A&oh=00_AffPn2yQyc3ssqSND652QEJjkVbyY3Xqvbf95BB4aoYJcA&oe=68ED81EF)
-
- 
+https://scontent.fdac24-4.fna.fbcdn.net/v/t39.30808-6/558891859_1510189646933778_8373200911856117532_n.png?stp=dst-jpg_p180x540_tt6&_nc_cat=107&ccb=1-7&_nc_sid=86c6b0&_nc_eui2=AeF8u3lGK1ykA2y9eK7wuLRrud2ILg4k01u53YguDiTTW0dYI5GH7GGU0TqeUO1-QORmy3Lt17_pKtd3IEx_5_9m&_nc_ohc=gcKxk1WbWgUQ7kNvwGuHXM1&_nc_oc=Admfw6-VeZ2gbg_ICEVBb55KJzSv7jwRyWeNze8Dmd8W_84Mf3feVQfB9GHazsi0f60&_nc_zt=23&_nc_ht=scontent.fdac24-4.fna&_nc_gid=JVpazfsXuaEBK4A-jhD1qg&oh=00_AfeeuabjjOLsssnYw20nLNY1e6lrr_S5jZwHD1sRCn7dSg&oe=68ED81EF
  
 ### Hi there 👋, I am Tushar Adnan 
 #### I am a student 
