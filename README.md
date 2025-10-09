@@ -3,7 +3,7 @@
 ### Hi there 👋, I am Tushar Adnan 
 #### I am a student 
 
-🧍‍♂️I am Tushar Adnan ,currently working  as a web developer .🔵I am very keen to learn new technologies and use them to either create something useful or improve the existing website.✅
+🧍‍♂️I am Tushar Adnan ,currently I am working  as a web developer .🔵I am very keen to learn new technologies and use them to either create something useful or improve the existing website.✅
 
 Skills:  HTML / CSS/JS
 
