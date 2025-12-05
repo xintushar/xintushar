@@ -1,5 +1,4 @@
 
-https://cdn.vectorstock.com/i/750p/14/95/software-development-ui-dashboard-vector-37731495.avif
 
 
 #### I am a student....
